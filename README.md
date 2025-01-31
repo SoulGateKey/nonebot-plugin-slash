@@ -6,9 +6,9 @@
 
 <div align="center">
 
-# nonebot-plugin-template
+# nonebot-plugin-slash
 
-_✨ NoneBot 插件简单描述 ✨_
+_✨ NoneBot 插件简单描述 TODO ✨_
 
 
 <a href="./LICENSE">
